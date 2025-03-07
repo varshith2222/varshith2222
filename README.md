@@ -1,5 +1,5 @@
 # 💫 About Me:
-👾 I’m currently learning Java Dsa<br>
+👾 I’m currently Working on building projects<br>
 
 
 ## 🌐 Socials:
