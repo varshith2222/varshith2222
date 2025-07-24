@@ -42,9 +42,4 @@
 
 ---
 
-## 🧊 3D Contribution Graph:
-> ⚠️ To enable this, follow the steps on [github.com/yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib)
-```md
-<!-- Once setup is complete, replace this with the real file path -->
-![](./profile-3d-contrib/profile-night-green.svg)
 
